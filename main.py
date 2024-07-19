@@ -30,5 +30,3 @@ if __name__ == '__main__':
         count = int(input("Количество: "))
         diet.add_food(title, count)
         print("Суммарная калорийность: " + str(diet.calculate()))
-
-
