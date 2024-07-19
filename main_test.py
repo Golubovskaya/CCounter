@@ -7,7 +7,7 @@ def test_if_empty():
     assert 0 == diet.calculate()
 
 
-def test_if_one()
+def test_if_one():
     diet = SmartDiet()
 
     diet.register_food("Хлеб", 300)
